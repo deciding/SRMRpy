@@ -24,6 +24,7 @@ shown as the metrics have not been tested under such conditions.
 ## Setup
 
 Simply run `python setup.py install` from inside the `SRMRpy` folder to install this package and its dependencies.
+pip install git+https://github.com/detly/gammatone.git
 
 ## Usage
 
