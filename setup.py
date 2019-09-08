@@ -4,6 +4,8 @@
 # This file is part of the SRMRpy library, and is licensed under the
 # MIT license: https://github.com/jfsantos/SRMRpy/blob/master/LICENSE
 from setuptools import setup, find_packages
+import os
+os.system("pip install git+https://github.com/detly/gammatone.git")
 
 setup(
     name = "SRMRpy",
